@@ -1,6 +1,6 @@
 # Bevy-2048
 
-A simple Rust remake of the [2048 game](https://play2048.co/) using the Bevy Game Engine. Follows the tutorial in excellent [Rust Adventure series](https://www.rustadventure.dev/).
+A simple Rust remake of the [2048 game](https://play2048.co/) using the Bevy Game Engine. Follows the tutorial in the excellent [Rust Adventure series](https://www.rustadventure.dev/).
 
 ## To Play
 First you need to [install Rust and Cargo](https://doc.rust-lang.org/book/ch01-01-installation.html). On Linux or macOS you can run:
